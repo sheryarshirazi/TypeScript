@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		table , td , th{
+			border: 1px solid black;
+		}
+	</style>
+</head>
+<body>
+	<h3>Input </h3>
+	<table>
+		<tr><th>Name</th><th>Credit Hour</th><th>Marks</th><th>Marks Obtained</th></tr>
+		<tr><td><input type="text" id="name"></td><td><input type="text" id="credit"></td><td><input type="text" id="marks"></td><td><input type="text" id="marksObtained"></td></tr>
+		<tr><td colspan="4"><div id="output"></div></td></tr>		
+		<tr><td colspan="2"><input type="button" value="Add Course" id="add"></td><td colspan="2"><input type="button" value="Calculate GPA" id="display"></td></tr>		
+	</table>
+	<hr/>
+	<h3>Result</h3>
+	<table>
+		<tr id="row"><th>Name</th><th>Credit Hour</th><th>Marks</th><th>Marks Obtained</th></tr>
+	</table>
+	<script src="js/result.js"></script>
+	<!--<script src="js/script.js"></script>-->
+	<!--<script src="js/functions.js"></script>-->
+	
+</body>
+</html>
