@@ -5,6 +5,7 @@
 		"mapRoot": "map",
 		"sourceMap": true,
 		"outDir": "js",
-		"removeComments": true
+		"removeComments": true,
+		"watch": true
 	}
 }

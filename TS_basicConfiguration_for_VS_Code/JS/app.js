@@ -1,2 +1,2 @@
 console.log("hellworld");
-//# sourceMappingURL=map/app.js.map
+//# sourceMappingURL=../TS/map/app.js.map
