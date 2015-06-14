@@ -1,2 +1,7 @@
 # Map Files
 *.map
+
+# Visual Studio Code settings json file
+*.settings
+
+beginingTS/*/*.json
