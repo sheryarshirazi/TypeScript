@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target":"ES5",
+		"module": "amd",
+		"mapRoot": "map",
+		"sourceMap": true,
+		"removeComments": true
+	}
+}
