@@ -4,6 +4,7 @@
 		"module": "amd",
 		"mapRoot": "map",
 		"sourceMap": true,
+		"outDir": "js",
 		"removeComments": true
 	}
 }
